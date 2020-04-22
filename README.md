@@ -1,5 +1,5 @@
 # Flower-Image-Classifier-CNN-PyTorch
-*Repository for a Flower Classification using CNN (Framework: PyTorch)*
+*Repository for a Flower Classification Algorithm using CNN (Framework: PyTorch)*
 
 ## Project Overview
 In this project I use deep learning with PyTorch to make an image classifier that predicts the top K flower classes and their associated probabilities from a picture.
